@@ -58,7 +58,8 @@ Sequence Diagram
 
 ## SEQUENCE DIAGRAM:
 
-<img width="668" height="697" alt="image" src="https://github.com/user-attachments/assets/ea5b350b-b960-473c-9514-ac0dd047f697" />
+<img width="925" height="642" alt="image" src="https://github.com/user-attachments/assets/1aad3086-92d2-48fc-9e7a-95256cb61057" />
+
 
 
 # RESULT:
