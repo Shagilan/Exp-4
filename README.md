@@ -53,7 +53,8 @@ Sequence Diagram
 
 ## COMMUNICATION DIAGRAM:
 
-<img width="622" height="447" alt="image" src="https://github.com/user-attachments/assets/58413981-5cbf-450c-922b-f9cc553bbce1" />
+<img width="1198" height="927" alt="image" src="https://github.com/user-attachments/assets/d7d02320-6541-437c-b04f-569a7501c78a" />
+
 
 ## SEQUENCE DIAGRAM:
 
