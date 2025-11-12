@@ -36,7 +36,8 @@ Sequence Diagram
 
 ## USE CASE DIAGRAM:
 
-<img width="866" height="800" alt="image" src="https://github.com/user-attachments/assets/f9587d8f-4dd3-495f-8070-96d372b47733" />
+<img width="1111" height="952" alt="image" src="https://github.com/user-attachments/assets/85b55864-e992-4131-bdad-d2952e9414c5" />
+
 
 ## CLASS DIAGRAM:
 
